@@ -1,0 +1,18 @@
+#logo{
+    width: 250px;
+    height: 250px;
+}
+body{
+    background-color: yellow;
+}
+.form-connect{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.btn-connect{
+    margin-top: 10%;
+    background-color: red;
+    border-radius: 12px;
+}
