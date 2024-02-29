@@ -1,6 +1,6 @@
 <?php include("./includes/haut.php");?>
 
-<h1>Liste des ingrédients</h1>
+<h1>Liste des ingrédients </h1>
 <h3>Les ingrédients</h3>
     <table class="table table-striped table-hover">
         <thead>

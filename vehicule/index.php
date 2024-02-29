@@ -25,7 +25,7 @@
 
 require_once("Voiture.php");
 
-$maVoiture = new Voiture("ABC2A",3,180,20,22);
+$maVoiture = new Voiture("ABC2A2",3,180,20,22);
 $maVoiture->setCapaciteCoffre(100);
 $maVoiture->remplirCoffre(80);
 $maVoiture->viderCoffre(20);

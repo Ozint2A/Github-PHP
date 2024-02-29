@@ -10,7 +10,7 @@ echo("$prenom.... $age ans ??? Menteur ! ");
 */
 $monTableau= [];
 for ($i =1; $i<=5; $i++){  
-    $reponse = readline("un entier ? ");
+    $reponse = readline("un entier  ? ");
     $monTableau[] = $reponse;
 }
 $somme = 0;

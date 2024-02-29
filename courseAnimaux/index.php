@@ -15,7 +15,7 @@ $participants[] = new CochonsInde("boby");
 
 for($tour=1; $tour<=10; $tour++){
     effaceEcran();
-    echo("Tour " . $tour . "\n");
+    echo("Tourr " . $tour . "\n");
     // les particpants jouent (avancent et lancent un sort)
     foreach($participants as $participant){
         $participant->avancer();

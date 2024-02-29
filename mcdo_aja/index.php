@@ -16,7 +16,7 @@
     <div class="form-connect">
         <img src="img-mcdo.jpg" id="logo">
         <form action="javascript:connexion()" method="post">
-            <label>Email:</label><br>
+            <label>Email :</label><br>
             <input type="mail" id="email" required><br>
             <label>Mot de passe:</label><br>
             <input type="password" class="pwd"><br>
